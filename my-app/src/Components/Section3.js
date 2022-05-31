@@ -15,7 +15,7 @@ export default function Section3() {
                         <div className="col-lg-6 col-12">
                             <h3 className="mb-3">The importance of Leadership Conference in 2022</h3>
 
-                            <p>Leadership Event is one-page Bootstrap v5.1.3 CSS layout for your website. Thank you for choosing TemplateMo website where you can instantly download free CSS templates at no cost.</p>
+                            <p>Leadership Event is one-page Bootstrap v5.1.3 CSS layout for your website. Lorem ipsum dolor sit amet. Thank you for choosing TemplateMo website where you can instantly download free CSS templates at no cost.</p>
 
                             <a className="custom-btn custom-border-btn btn custom-link mt-3 me-3 sec3-a1" href="#section_3">Meet Speakers</a>
 
